@@ -1,0 +1,5 @@
+Public facilities  like libraries usually have a computer for finding a book for general public. Users can go in the working hours to search the catalog and take a book with and without the help of staff. The dataset in question have all the list of public facilities which have computers. These computers have internet access from the government at all time. We have downloaded the dataset from the link (https://data.cityofnewyork.us/Social-Services/Citywide-Public-Computer-Centers/cuzb-dmcd) which was updated about a year ago in Sept. , 2017. Mayor's office of Chief technology officer (MOCTO) New York maintains this dataset and it has only 944 downloads to this date. Dataset is provided under the domain of 'open data access' from the city fo New York, USA. In the following section we will do the Exploratory data analysis (EDA) of the dataset in several critical steps. At each step we have have provided comments and code chunks describing the process for EDA analysis. 
+
+# Project Description
+**Real Estate Property** dataset 
+
